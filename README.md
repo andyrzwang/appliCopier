@@ -10,6 +10,8 @@ This is a Chrome extension that helps you quickly copy frequently used long text
 
 Even if you only save a few seconds each time, those small savings add up!
 
+Keep in mind that this extension only works in the browser where it is installed. It will not work in other browsers or devices.
+
 ### Expand and edit your list
 
 In `index.html`
@@ -41,4 +43,5 @@ document
 2. Turn on Developer mode (top-right corner).
 
 3. Click Load unpacked (top-left corner) and select this folder.
+
 
