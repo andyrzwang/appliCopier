@@ -1,9 +1,9 @@
 # appliCopier
 
----
-
 Andy W
 Feb 4, 2025
+
+---
 
 This is a Chrome extension that helps you quickly copy frequently used long text to your clipboard during the job application process—such as your email address, phone number, mailing address, or any other repetitive information.
 
